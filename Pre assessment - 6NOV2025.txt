@@ -1,0 +1,26 @@
+Pre assessment:
+
+Angular
+React
+
+Event Binding
+Services
+Component Communication
+Two-way Binding
+Property Binding
+Forms and Validation
+Conditional Rendering
+Routing
+Class Binding
+Template Directives
+Conditional Rendering
+Controlled Inputs
+Component Reuse
+Data Passing
+Lifecycle / Effects
+Shared State
+State and Events
+Rendering Lists
+State Management
+Styling
+-----------------------in chatgpt arigeindhu179@gmail.com---------------
